@@ -99,6 +99,7 @@ Response (200 OK):
   ],
   "count": 1
 }
+````
 
 ## Future Enhancements
 
@@ -140,6 +141,3 @@ python app.py
 4. Access the application:
 API: http://localhost:5000/students
 
-Web Interface: http://localhost:5000
-```
-````
